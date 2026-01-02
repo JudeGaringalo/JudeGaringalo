@@ -39,8 +39,9 @@ I am a **3rd Year BSIT Student** passionate about building meaningful web applic
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Judegaringalo&show_icons=true&theme=tokyonight&hide_border=true" alt="Jude's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Judegaringalo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  ### 📊 GitHub Stats
+![Jude's Stats](https://github-readme-stats.vercel.app/api?username=Judegaringalo&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Judegaringalo&layout=compact&theme=radical)
 </p>
 
 ---
