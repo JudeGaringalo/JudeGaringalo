@@ -153,3 +153,8 @@
 </div>
 
 ###
+
+### Connect with Me
+- 🌐 **Portfolio:** [judegaringalo.vercel.app](https://judegaringalo.vercel.app)
+- 💼 **LinkedIn:** [Lester Jude Garingalo](https://linkedin.com/in/lester-jude-garingalo)
+- 📧 **Email:** [lesterjudeag@gmail.com](mailto:lesterjudeag@gmail.com)
