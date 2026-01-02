@@ -117,6 +117,7 @@ I am a driven <b>BSIT Student</b> at <b>Rizal Technological University</b> with 
 * **Foundational C#** (Microsoft)
 * **Introduction to Software Engineering** (IBM)
 * **Developing Secure Software** (The Linux Foundation)
+* **Software Engineering Essentials** (Coursera)
 * **Computer System Servicing NC II** (TESDA)
 
 ---
