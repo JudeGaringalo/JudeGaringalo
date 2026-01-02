@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Jude G.
+# 👋 Hi there, I'm Lester Jude Garingalo
 
 ### 👨‍💻 Student & Full-Stack Developer | Game Dev Enthusiast
 *Based in Pasig, Philippines* 🇵🇭
