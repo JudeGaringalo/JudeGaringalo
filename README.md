@@ -16,12 +16,12 @@ I am a driven <b>BSIT Student</b> at <b>Rizal Technological University</b> with 
 
 <h3 align="left">Featured Projects</h3>
 
-#### <b><a href="https://judegaringalo.vercel.app">Institalk</a></b>
+#### <b><a href="https://institalk.vercel.app">Institalk</a></b>
 > *Exclusive Random Chat Web App*
 - **Stack:** Next.js, React, TypeScript, Supabase.
 - **About:** A verified random chat community for university students with topic-matching and institutional email verification.
 
-#### <b><a href="https://judegaringalo.vercel.app">RTUEats</a></b>
+#### <b><a href="https://youtu.be/qFScZv7UBUM">RTUEats</a></b>
 > *Full-Stack SaaS Food Delivery Platform*
 - **Stack:** Flutter, Supabase, PostgreSQL.
 - **About:** A food delivery system featuring role-based access control and real-time vendor dashboards.
@@ -31,17 +31,17 @@ I am a driven <b>BSIT Student</b> at <b>Rizal Technological University</b> with 
 - **Stack:** C#, Unity Engine.
 - **About:** An immersive horror experience utilizing State-Machine AI for dynamic pathfinding and optimized mobile controls.
 
-#### <b><a href="https://judegaringalo.vercel.app">Kolokal</a></b>
+#### <b><a href="https://youtu.be/VZsScRMPwCM">Kolokal</a></b>
 > *Client Project - Mobile Learning App*
 - **Stack:** Flutter, Dart.
 - **About:** A progression-based learning system designed with local storage capabilities for offline access.
 
-#### <b><a href="https://judegaringalo.vercel.app">Compass</a></b>
+#### <b><a href="https://youtu.be/7xEy2VlaTl0">Compass</a></b>
 > *Full-Stack Booking Engine*
 - **Stack:** PHP, MySQL, Bootstrap, Leaflet.js.
 - **About:** A comprehensive booking management system integrating interactive maps.
 
-#### <b><a href="https://judegaringalo.vercel.app">CSS Tutorial</a></b>
+#### <b><a href="https://youtu.be/W9XBi_1HqzE">CSS Tutorial</a></b>
 > *Interactive Learning Platform*
 - **Stack:** Vanilla JavaScript, HTML5.
 - **About:** An interactive Single Page Application (SPA) designed to teach CSS concepts.
