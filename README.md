@@ -9,7 +9,7 @@
 
 <h3 align="left">About Me</h3>
 <p align="left">
-I am a driven <b>BSIT Student</b> at <b>Rizal Technological University</b> with a strong portfolio in Full-Stack and Mobile Development. With 5 years of professional experience in digital marketing, I am now seeking a <b>Software Development Internship</b> to apply my technical problem-solving skills in a collaborative team environment.
+I am a driven <b>BSIT Student</b> at <b>Rizal Technological University</b> with a strong portfolio in Full-Stack and Mobile Development. With 5 years of professional experience in digital marketing.
 </p>
 
 ---
