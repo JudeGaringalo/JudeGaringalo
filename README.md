@@ -28,7 +28,7 @@ I am a driven <b>BSIT Student</b> at <b>Rizal Technological University</b> with 
 
 #### <b><a href="https://github.com/Judegaringalo/Kahera">Kahera</a></b>
 > *Psychological Horror Game*
-- **Stack:** C#, Unity Engine.
+- **Stack:** C#, Unity Engine, Blender.
 - **About:** An immersive horror experience utilizing State-Machine AI for dynamic pathfinding and optimized mobile controls.
 
 #### <b><a href="https://youtu.be/VZsScRMPwCM">Kolokal</a></b>
