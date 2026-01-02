@@ -121,12 +121,6 @@ I am a driven <b>BSIT Student</b> at <b>Rizal Technological University</b> with 
 
 ---
 
-<h3 align="left">GitHub Stats</h3>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Judegaringalo&show_icons=true&theme=onedark&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Judegaringalo&layout=compact&theme=onedark&hide_border=true" height="150" alt="languages graph" />
-</div>
-
 <br/>
 
 <h3 align="left">Connect with Me</h3>
